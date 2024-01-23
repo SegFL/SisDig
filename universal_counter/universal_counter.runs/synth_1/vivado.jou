@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Jan 11 21:03:02 2024
+# Process ID: 2128
+# Current directory: C:/Users/Educacion/Desktop/SisDig/Vivado/Proyectos/universal_counter/universal_counter.runs/synth_1
+# Command line: vivado.exe -log universal_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source universal_counter.tcl
+# Log file: C:/Users/Educacion/Desktop/SisDig/Vivado/Proyectos/universal_counter/universal_counter.runs/synth_1/universal_counter.vds
+# Journal file: C:/Users/Educacion/Desktop/SisDig/Vivado/Proyectos/universal_counter/universal_counter.runs/synth_1\vivado.jou
+# Running On: DESKTOP-D8I3SOG, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 10, Host memory: 8259 MB
+#-----------------------------------------------------------
+source universal_counter.tcl -notrace

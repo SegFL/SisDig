@@ -1,0 +1,7 @@
+ESCRITURA Y LECTRUA DE MEMORIA RAM DE 8 BITS
+
+a_t	
+b_t	
+add_a_t	
+add_b_t
+

@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../UART.gen/sources_1/ip/vio_0_1/sim/vio_0.vhd" \
+"../../../../../FIFO/FIFO.srcs/sources_1/new/FIFO.vhd" \
+"../../../../../mod_m_counter/mod_m_counter.srcs/sources_1/new/mod_m_counter.vhd" \
+"../../../../UART.srcs/sources_1/new/receiver.vhd" \
+"../../../../UART.srcs/sources_1/new/transmiter.vhd" \
+"../../../../UART.srcs/sources_1/new/uart.vhd" \
+"../../../../UART.srcs/sim_1/new/uart_test_bench.vhd" \
+
+# Do not sort compile order
+nosort

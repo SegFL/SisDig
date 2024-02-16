@@ -14,6 +14,9 @@ Tabla de iteraciones
 
 Tabla de operaciones
 
+![image](https://github.com/SegFL/SisDig/assets/127962581/5ee11cba-1a7b-4bbf-8a02-dfd0e46015e6)
+
+
 Seno/Coseno:
   Modo rotacion
   x=1/An      x'=cos(alfa)
